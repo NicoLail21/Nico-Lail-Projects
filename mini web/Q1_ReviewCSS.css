@@ -1,0 +1,45 @@
+h1 { 
+	color:#D8DEE9
+}
+body { 
+	background-color: #2E3440;  
+	color:#D8DEE9;
+	font-family: Rockwell
+} 
+nav { 
+	background-color:#3C4F5D;
+}
+a:visited {
+  color: #88C0D0;
+}
+a{
+	text-decoration:none;
+	color:#E5E9F0
+}
+body {
+	font-size: 21px;
+	
+}
+nav{
+	display: flex;
+	gap: 5em;
+	
+	justify-content: center;
+}
+h2 { 
+	color:#FEFEFE
+}
+form input{
+	background-color: aqua;
+}
+
+
+
+.center{display:block; margin-left: auto; margin-right: auto;}
+footer:link {
+	color: red;
+  }
+  .myClassStyle{color:rgb(149, 148, 180)}
+  #myIdStyle
+  {color:rgb(150, 150, 150)}
+  
