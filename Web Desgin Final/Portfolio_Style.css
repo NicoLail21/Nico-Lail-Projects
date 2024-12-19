@@ -1,0 +1,76 @@
+
+/* Nicolas.Lail */
+/*the color of my h1 changes the color of  */ 
+h1 { 
+	color:#d9c5b2
+}
+/*in the body i chnaged the background color to a difrent color and the text color
+ i also changed the font to rockwell*/
+body { 
+	background-color: #4d4c59;  
+	color:#D8DEE9;
+	font-family: Rockwell
+} 
+ /*i changed my background color in the nav*/
+nav { 
+	background-color:#7e7f83;
+	 
+}
+/*i changed my visited links to a diffrent color */
+a:visited {
+  color: #14110f;
+}
+ /*changed the text decortaion to none and changed the color*/
+a{
+	text-decoration:none;
+	color:#f3f3f4
+}
+ /*i changed my font size to 21px in the body */ 
+body {
+	font-size: 21px;
+}
+/*i changed my font size to 21px in the table */
+table {font-size: 21px;}
+/*changed the nav to have a flex in the spacing and also changed the gap to 5em*/
+nav{
+	display: flex;
+	gap: 5em;
+	
+	justify-content: center;
+}
+/*changed the Font size in the nav to 2em*/
+nav a{ 
+    font-size: 2em;
+}
+/*changed my h2 color */
+h2 { 
+	color:#d9c5b2
+}
+/*changed the background input to a diffrent color*/
+form input {
+
+	background-color:#7e7f83;
+}
+/*changed my class to have a float and a text align to 1em*/
+.class1 { 
+	float: right;
+	
+}
+
+/*changed the textarea color */
+textarea {
+	background-color: #7e7f83;
+}
+/*fixed my margin spacing */
+.center{display:block; margin-left: auto; margin-right: auto;}
+footer:link {
+	color: red;
+  }
+  /*changed my style to a diffrent color */
+  .myClassStyle{color:rgb(149, 148, 180)}
+  #myIdStyle
+  {color:rgb(150, 150, 150)}
+
+
+  
+  
